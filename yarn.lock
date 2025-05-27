@@ -453,10 +453,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@julr/unocss-preset-forms@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@julr/unocss-preset-forms/-/unocss-preset-forms-2.0.0.tgz#b93fc30d867229204e038f8a6453629fa7096580"
-  integrity sha512-1IqToJhrg4ftmTkt2xTCuS7YC9BNv9SA9lNMykFduKD8Y+fuOb+G7VU9iieaWf6UMUWOI3LrZ735v3lA93Z5Dw==
+"@julr/unocss-preset-forms@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@julr/unocss-preset-forms/-/unocss-preset-forms-1.0.0.tgz#ae818874a740eed1dd37eeb7aee68536ea40eb66"
+  integrity sha512-A0Q40kazPG7CblrXyMNMBYpOPyUncmNTS+65XzaCCEZ8r5v+W5qEp+cI0SKG/XwCsw0aE8zeaB3IvETJLGkWgw==
 
 "@mdx-js/mdx@^3.1.0":
   version "3.1.0"
